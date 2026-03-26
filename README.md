@@ -48,10 +48,10 @@ This project focuses on identifying phishing (fake) emails and creating awarenes
 ```
 FUTURE_CS_02/
 ├── Screenshots/
-├── Sample_Emails/
 ├── Awareness.pdf
-├── report.pdf
-└── README.md
+├── README.md
+├── Sample_Emails.pdf
+└── report.pdf
 ```
 
 ---
