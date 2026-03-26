@@ -47,7 +47,13 @@ This project focuses on identifying phishing (fake) emails and creating awarenes
 
 FUTURE_CS_02/
 ├── Screenshots/
+│ ├── phishing-header-analysis.png
+│ ├── suspicious-link-check.png
+│ └── mxtoolbox-results.png
 ├── Sample_Emails/
+│ ├── phishing-sample1.eml
+│ ├── suspicious-sample2.eml
+│ └── safe-sample3.eml
 ├── Awareness.pdf
 ├── report.pdf
 └── README.md
