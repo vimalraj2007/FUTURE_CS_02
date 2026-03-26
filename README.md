@@ -43,9 +43,17 @@ This project focuses on identifying phishing (fake) emails and creating awarenes
 * Browser tools (link checking)
 
 ---
-# Vulnerability Assessment Report - Future Interns Task
-
 ## 📁 Repository Structure
+FUTURE_CS_02/
+├── Screenshots/
+│ ├── nmap-scan.png
+│ ├── zap-passive-alerts.png
+│ └── devtools-headers.png
+├── Sample_Emails/
+│ └── client-report-email.txt
+├── Awareness.pdf
+├── report.pdf
+└── README.md
 ---
 
 ## 📄 Output
