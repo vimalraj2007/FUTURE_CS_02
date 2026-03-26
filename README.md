@@ -2,60 +2,45 @@
 
 ## 📌 Simple Explanation
 
-This project is about identifying phishing (fake) emails and creating awareness so users can avoid cyber attacks.
+This project focuses on identifying phishing (fake) emails and creating awareness so users can avoid cyber attacks.
 
 ---
 
 ## 🧠 What is this project?
 
-- Analyze suspicious emails to determine whether they are safe or phishing  
-- Explain how attackers trick users in a simple and understandable way  
+* Analyze suspicious emails to check whether they are safe or phishing
+* Explain how attackers trick users in a simple and clear way
 
 ---
 
-## 🎯 What did you do?
+## 🎯 What did I do?
 
-- Collected phishing email samples  
-- Checked email headers and links  
-- Identified phishing indicators  
-- Classified emails:
-  - 🔴 Phishing  
-  - 🟠 Suspicious  
-  - 🟢 Safe  
-- Created awareness guidelines  
+* Collected phishing email samples
+* Checked email headers and links
+* Identified phishing indicators
+* Classified emails:
+
+  * 🔴 Phishing
+  * 🟠 Suspicious
+  * 🟢 Safe
+* Created awareness guidelines
 
 ---
 
-## 🔍 What did you find?
+## 🔍 What did I find?
 
-- Fake or lookalike email domains  
-- Failed security checks (SPF, DKIM, DMARC)  
-- Urgent or threatening messages  
-- Malicious links and attachments  
-- Generic (non-personalized) emails  
+* Fake or lookalike email domains
+* Failed security checks (SPF, DKIM, DMARC)
+* Urgent or threatening messages
+* Malicious links and attachments
+* Generic (non-personalized) emails
 
 ---
 
 ## 🛠️ Tools Used
 
-- MXToolbox (Email header analysis)  
-- Browser tools (link checking)  
-
----
-
-## 🛡️ How to stay safe?
-
-### ✅ Do:
-- Verify sender email  
-- Check links before clicking  
-- Use official websites  
-- Report suspicious emails  
-
-### ❌ Don’t:
-- Click unknown links  
-- Download suspicious files  
-- Share passwords or OTPs  
-- Trust urgent messages blindly  
+* MXToolbox (Email header analysis)
+* Browser tools (link checking)
 
 ---
 
@@ -63,20 +48,19 @@ This project is about identifying phishing (fake) emails and creating awareness 
 
 FUTURE_CS_02/
 
-├── Screenshots/      
+├── Screenshots/
 ├── Sample_Emails/
 ├── Awareness.pdf
-├── report.pdf        
-└── README.md         
-
+├── report.pdf
+└── README.md
 
 ---
 
 ## 📄 Output
 
-- A detailed phishing analysis report  
-- Sample emails for study  
-- Screenshots as evidence  
+* Phishing awareness document (Awareness.pdf)
+* Technical analysis report (report.pdf)
+* Screenshots as evidence
 
 ---
 
@@ -88,4 +72,4 @@ FUTURE_CS_02/
 
 ## 👤 Prepared By
 
-**Vimal Raj R**
+Vimal Raj R
