@@ -44,13 +44,10 @@ This project focuses on identifying phishing (fake) emails and creating awarenes
 
 ---
 ## 📁 Repository Structure
+
 FUTURE_CS_02/
 ├── Screenshots/
-│ ├── nmap-scan.png
-│ ├── zap-passive-alerts.png
-│ └── devtools-headers.png
 ├── Sample_Emails/
-│ └── client-report-email.txt
 ├── Awareness.pdf
 ├── report.pdf
 └── README.md
