@@ -64,7 +64,8 @@ This project is about identifying phishing (fake) emails and creating awareness 
 FUTURE_CS_02/
 
 ├── Screenshots/      
-├── Sample_Emails/     
+├── Sample_Emails/
+├── Awareness.pdf
 ├── report.pdf        
 └── README.md         
 
