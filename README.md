@@ -47,15 +47,10 @@ This project focuses on identifying phishing (fake) emails and creating awarenes
 ## 📁 Repository Structure
 
 FUTURE_CS_02/
-
 ├── Screenshots/
-
 ├── Sample_Emails.pdf
-
 ├── Awareness.pdf
-
 ├── report.pdf
-
 └── README.md
 
 ---
